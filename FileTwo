@@ -1,2 +1,3 @@
 file 2 -addd - changed the same line - had to correct manually.
 change this file again in BranchOne and try to merge to master + also try to integrate Quality Gates into Pull Requests
+--> changed line 2 so merging works. + couldn't find Quality Gates+ Open an Issue and then reference it with the next pull request for this file.
