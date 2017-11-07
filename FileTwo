@@ -1,1 +1,2 @@
 file 2 -addd - changed the same line - had to correct manually.
+change this file again in BranchOne and try to merge to master + also try to integrate Quality Gates into Pull Requests
